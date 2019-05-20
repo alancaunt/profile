@@ -49,6 +49,9 @@ li {
   margin: 300px 550px 300px 75px;
   text-align: center;
 }
+.card:hover {
+  background: url("images/monkeyman.jpeg");
+}
 
 #small-image {
   width:300px;
